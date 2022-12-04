@@ -12,6 +12,6 @@ var settings = config.GetRequiredSection(nameof(Settings)).Get<Settings>();
 int endRotateCount = 4 - settings.RotateCount;
 
 PrimaryScreenResolution.ChangeResolution(settings.RotateCount);
-var process = Process.Start(settings.Command);
+var process = Process.Start(settings.Command, args);
 process.WaitForExit();
 PrimaryScreenResolution.ChangeResolution(endRotateCount);
