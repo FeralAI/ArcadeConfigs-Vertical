@@ -4,7 +4,7 @@
 
 	<view name="grid,detailed,gamecarousel">
 
-		<image name="iconsBk" extra="true" ifHelpPrompts="true" onclick="gameoptions">
+		<image name="iconsBk" extra="true" ifHelpPrompts="true">
 			<path>./../art/filter.png</path>
 			<color>00000080</color>
 			<colorEnd>000000ff</colorEnd>
@@ -33,7 +33,7 @@
 			<unfilledColor>808080</unfilledColor>
 			<unfilledPath>:/star_filled.svg</unfilledPath>
 			<horizontalAlignment>right</horizontalAlignment>  
-			<zIndex>15</zIndex>
+			<zIndex>100</zIndex>
 		</rating>
 
 		<text name="md_players">
@@ -134,12 +134,13 @@
 <!-- DETAILED -->  	
 	<view name="detailed,gamecarousel"> 
 	
-    <video name="md_video">
+	    <video name="md_video">
 			<pos>0.74 0.39</pos>
 			<maxSize>0.39 0.4</maxSize>
 		</video>
  
 		<text name="md_description">
+			<pos>0.55 0.67</pos>
 			<pos>0.55 0.615</pos>
 			<size>0.38 0.25</size>
 		</text> 

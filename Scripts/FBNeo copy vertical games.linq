@@ -1,8 +1,8 @@
 <Query Kind="Statements" />
 
-var romDir = @"C:\ROMs\fbneo\";
+var romDir = @"X:\ROMs\fbneo\";
 var newDir = @"C:\ROMs\fbneo-vertical\";
-var datFile = @"C:\Utilities\clrmamepro\datfiles\FinalBurn Neo (ClrMame Pro XML, Arcade only).dat";
+var datFile = @"C:\Dats\FinalBurn Neo 1.0.0.3-20221129.dat";
 var settings = new XmlReaderSettings { Async = true, DtdProcessing = DtdProcessing.Parse  };
 var reader = XmlReader.Create(datFile, settings);
 var gameList = new List<string>();

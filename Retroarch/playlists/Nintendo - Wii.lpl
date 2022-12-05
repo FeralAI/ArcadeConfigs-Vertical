@@ -1,0 +1,20 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+  "default_core_name": "Nintendo - GameCube / Wii (Dolphin)",
+  "base_content_directory": "C:\\Temp\\wii",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\Temp\\wii\\Castle of Shikigami III (USA).rvz",
+      "label": "Castle of Shikigami III",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

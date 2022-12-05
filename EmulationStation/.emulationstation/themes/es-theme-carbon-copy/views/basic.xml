@@ -42,12 +42,10 @@ originally based on: "simple" by nils bonenberger
 
     <textlist name="gamelist">    
       <selectorColor>1c1c1c</selectorColor>
-      <selectorColor>96969620</selectorColor>
+       <selectorColor>96969620</selectorColor>
       <selectedColor>${basecolor}</selectedColor>
       <primaryColor>C0C0C0</primaryColor>
-      <secondaryColor>F0F0F0</secondaryColor>
-      <extraTextColor>555555</extraTextColor> <!-- extraText color is for texts located between [] or () -->
-      <extraTextSelectedColor>A0A0A0</extraTextSelectedColor>
+      <secondaryColor>808080</secondaryColor>
       <fontPath>./../art/fonts/Cabin-Regular.ttf</fontPath>
       <fontSize>0.030</fontSize>
       <pos>0.025 0.18</pos>
@@ -67,9 +65,7 @@ originally based on: "simple" by nils bonenberger
       <scrollbarAlignment>outerright</scrollbarAlignment> <!-- innerleft -->
 
       <lines>17</lines>
-      <horizontalMargin>0.005</horizontalMargin>
-      <glowColor>000000A0</glowColor>
-      <glowSize ifArch="windows,x86,x86_64,odroidc4,odroidxu4">1</glowSize>
+      <horizontalMargin>0.005</horizontalMargin>  
     </textlist>
   </view>
 </theme>

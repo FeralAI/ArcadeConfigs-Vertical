@@ -1,0 +1,100 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+  "default_core_name": "Sega - Dreamcast/Naomi (Flycast)",
+  "base_content_directory": "C:\\ROMs\\dreamcast",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMs\\dreamcast\\Ghost Blade (USA, Japan) (Unl) (Rerelease).chd",
+      "label": "Ghost Blade",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Gunbird 2 (USA).chd",
+      "label": "Gunbird 2",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Ikaruga (Japan).chd",
+      "label": "Ikaruga",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Karous (Japan).chd",
+      "label": "Karous",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Neo XYX (2014)(NGDEV.TEAM).cdi",
+      "label": "Neo XYX",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Psyvariar 2 - The Will to Fabricate (Japan).chd",
+      "label": "Psyvariar 2 : The Will to Fabricate",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Radirgy (Japan).chd",
+      "label": "Radirgy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Shikigami no Shiro II (Japan).chd",
+      "label": "Shikigami no Shiro II",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Triggerheart Exelica (Japan).chd",
+      "label": "Trigger heart Exelica",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Trizeal (Japan).chd",
+      "label": "Trizeal",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\dreamcast\\Under Defeat (Japan).chd",
+      "label": "Under Defeat",
+      "core_path": "C:\\Emulators\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

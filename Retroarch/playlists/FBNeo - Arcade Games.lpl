@@ -1,0 +1,5252 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Emulators\\RetroArch\\cores\\fbneo_libretro.dll",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "C:\\ROMs\\fbneo",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMs\\fbneo\\20pacgal.zip",
+      "label": "Ms. Pac-man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.08)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\25pacman.zip",
+      "label": "Pac-man - 25th Anniversary Edition (Rev 3.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\4in1.zip",
+      "label": "4 Fun In 1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\aceattac.zip",
+      "label": "Ace Attacker (FD1094 317-0059)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\acrobatm.zip",
+      "label": "Acrobat Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ad2083.zip",
+      "label": "A. D. 2083",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\aerofgt.zip",
+      "label": "Aero Fighters (World / USA + Canada / Korea / Hong Kong / Taiwan,)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\afighter.zip",
+      "label": "Action Fighter (FD1089A 317-0018)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\agallet.zip",
+      "label": "Air Gallet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\airass.zip",
+      "label": "Air Assault (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\airattck.zip",
+      "label": "Air Attack (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\airduel.zip",
+      "label": "Air Duel (World, M82-A-A + M82-B-A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ajax.zip",
+      "label": "Ajax",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\alcon.zip",
+      "label": "Alcon (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\alibaba.zip",
+      "label": "Ali Baba And 40 Thieves",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\alienres.zip",
+      "label": "Alien Rescue (Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\alpine.zip",
+      "label": "Alpine Ski (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\amazon.zip",
+      "label": "Soldier Girl Amazon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\amidar.zip",
+      "label": "Amidar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\androidp.zip",
+      "label": "Android (prototype, later build)(Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\angelkds.zip",
+      "label": "Angel Kids (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\anteater.zip",
+      "label": "Anteater",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\arabian.zip",
+      "label": "Arabian",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\arbalest.zip",
+      "label": "Arbalester",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\arcadian.zip",
+      "label": "Arcadia (NMK)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\argus.zip",
+      "label": "Argus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\arkanoid.zip",
+      "label": "Arkanoid (World, older)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\arkatour.zip",
+      "label": "Tournament Arkanoid (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\armchmp2.zip",
+      "label": "Arm Champs II v2.6",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\armorcar.zip",
+      "label": "Armored Car (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ashura.zip",
+      "label": "Ashura Blaster (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\aso.zip",
+      "label": "ASO: Armored Scrum Object",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\assault.zip",
+      "label": "Assault (rev B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\asuka.zip",
+      "label": "Asuka & Asuka (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\atlantis.zip",
+      "label": "Battle of Atlantis (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\avengers.zip",
+      "label": "Avengers (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\azurian.zip",
+      "label": "Azurian Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bagman.zip",
+      "label": "Le Bagnard",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\baluba.zip",
+      "label": "Baluba-louk No Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\baryon.zip",
+      "label": "Baryon: Future Assault (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\batriderj.zip",
+      "label": "Armed Police Batrider (Japan, B version, Fri Feb 13 1998)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\batsugun.zip",
+      "label": "Batsugun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\battlane.zip",
+      "label": "Battle Lane! Vol. 5 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\battlnts.zip",
+      "label": "Battlantis (program code G)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bbakraidj.zip",
+      "label": "Battle Bakraid: Unlimited Version (Japan, Tue Jun 8 1999)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bcruzm12.zip",
+      "label": "Battle Cruiser M-12",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bgaregga.zip",
+      "label": "Battle Garegga (Europe / USA / Japan / Asia, Sat Feb 3 1996)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bigbucks.zip",
+      "label": "Big Bucks",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bigprowr.zip",
+      "label": "Tag Team Wrestling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bioatack.zip",
+      "label": "Bio Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\birdiy.zip",
+      "label": "Birdiy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\birdtry.zip",
+      "label": "Birdie Try (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bjtwin.zip",
+      "label": "Bombjack Twin (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bladestl.zip",
+      "label": "Blades Of Steel (version T)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blastoff.zip",
+      "label": "Blast Off (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blazer.zip",
+      "label": "Galaxy Ranger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blkhole.zip",
+      "label": "Black Hole",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\block.zip",
+      "label": "Block Block (World 911219 Joystick)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blockcar.zip",
+      "label": "Block Carnival",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blockgal.zip",
+      "label": "Block Gal (MC-8123B, 317-0029)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blswhstl.zip",
+      "label": "Bells & Whistles (World, version L)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bluehawk.zip",
+      "label": "Blue Hawk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\blueprnt.zip",
+      "label": "Blue Print (Midway)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\boggy84.zip",
+      "label": "Boggy '84",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bombbee.zip",
+      "label": "Bomb Bee",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bombjack.zip",
+      "label": "Bomb Jack (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bongo.zip",
+      "label": "Bongo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\boomrang.zip",
+      "label": "Boomer Rang'r (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\boonggab.zip",
+      "label": "Boong-ga Boong-ga (Spank'em!)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\botanic.zip",
+      "label": "Botanic (English / Spanish)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bowlrama.zip",
+      "label": "Bowl-O-Rama",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\brubber.zip",
+      "label": "Burnin' Rubber",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\btime.zip",
+      "label": "Burger Time (Data East set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\buggychl.zip",
+      "label": "Buggy Challenge",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bwcasino.zip",
+      "label": "Boardwalk Casino",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bwings.zip",
+      "label": "B-wings (Japan new Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cadanglr.zip",
+      "label": "Angler Dangler (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cairblad.zip",
+      "label": "Change Air Blade (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\calibr50.zip",
+      "label": "Caliber 50",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\calipso.zip",
+      "label": "Calipso",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cannonbp.zip",
+      "label": "Cannon Ball (Pac-Man hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\capbowl.zip",
+      "label": "Capcom Bowling (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\carjmbre.zip",
+      "label": "Car Jamboree",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\castfant.zip",
+      "label": "Astro Fantasia (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\catacomb.zip",
+      "label": "Catacomb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cavelon.zip",
+      "label": "Cavelon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cbdash.zip",
+      "label": "Boulder Dash (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cbtime.zip",
+      "label": "Burger Time (DECO Cassette) (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cburnrub.zip",
+      "label": "Burnin' Rubber (DECO Cassette) (DECO Cassette, US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cdiscon1.zip",
+      "label": "Disco No.1 (DECO Cassette) (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cdsteljn.zip",
+      "label": "Ds Telejan (DECO Cassette, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\centiped.zip",
+      "label": "Centipede (revision 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cexplore.zip",
+      "label": "Explorer (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cfboy0a1.zip",
+      "label": "Flash Boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cfghtice.zip",
+      "label": "Fighting Ice Hockey (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cflyball.zip",
+      "label": "Flying Ball (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cgraplop.zip",
+      "label": "Graplop (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\chanbara.zip",
+      "label": "Chanbara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\checkman.zip",
+      "label": "Check Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\chinhero.zip",
+      "label": "Chinese Hero",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\chkun.zip",
+      "label": "Chance Kun (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\chqflag.zip",
+      "label": "Chequered Flag",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\chwy.zip",
+      "label": "Highway Chase (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\circusc.zip",
+      "label": "Circus Charlie (level select, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\citybomb.zip",
+      "label": "City Bomber (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ckong.zip",
+      "label": "Crazy Kong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ckongpt2.zip",
+      "label": "Crazy Kong Part II (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\clapapa.zip",
+      "label": "Rootin' Tootin' / La-pa-pa (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\clocknch.zip",
+      "label": "Lock'n'Chase (DECO Cassette) (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\clubpacm.zip",
+      "label": "Pacman Club / Club Lambada (Argentina)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cluckypo.zip",
+      "label": "Lucky Poker (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cmanhat.zip",
+      "label": "Manhattan (DECO Cassette, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cmissnx.zip",
+      "label": "Mission-X (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cnightst.zip",
+      "label": "Night Star (DECO Cassette, US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cocean1a.zip",
+      "label": "Ocean To Ocean",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\colony7.zip",
+      "label": "Colony 7 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\commando.zip",
+      "label": "Commando (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\commsega.zip",
+      "label": "Commando (Sega)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\complexx.zip",
+      "label": "Complex X",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\coozumou.zip",
+      "label": "Oozumou - The Grand Sumo (DECO Cassette, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cosmogng.zip",
+      "label": "Cosmo Gang The Video (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cppicf.zip",
+      "label": "Peter Pepper's Ice Cream Factory (DECO Cassette, US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cprobowl.zip",
+      "label": "Pro Bowling (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cprogolf.zip",
+      "label": "Tournament Pro Golf (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cpsoccer.zip",
+      "label": "Pro Soccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cptennis.zip",
+      "label": "Pro Tennis (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\crashh.zip",
+      "label": "crashh",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\crbaloon.zip",
+      "label": "Crazy Balloon (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\crshrace.zip",
+      "label": "Lethal Crash Race (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\crush.zip",
+      "label": "Make Trax (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cscrtry.zip",
+      "label": "Scrum Try (DECO Cassette, US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\csdtenis.zip",
+      "label": "Super Doubles Tennis (DECO Cassette, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cskater.zip",
+      "label": "Skater (DECO Cassette, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\csuperas.zip",
+      "label": "Super Astro Fighter (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cterrani.zip",
+      "label": "Terranean (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ctisland.zip",
+      "label": "Treasure Island (DECO Cassette, US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ctornado.zip",
+      "label": "Tornado (DECO Cassette, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ctower.zip",
+      "label": "The Tower (DECO Cassette) ",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\curvebal.zip",
+      "label": "Curve Ball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cutieq.zip",
+      "label": "Cutie Q",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\cyvern.zip",
+      "label": "Cyvern - The Dragon Weapons (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\daikaiju.zip",
+      "label": "Daikaiju No Gyakushu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dambustr.zip",
+      "label": "Dambusters (US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dangar.zip",
+      "label": "UFO Robo Dangar (4/07/1987)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dangseed.zip",
+      "label": "Dangerous Seed (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\darkmist.zip",
+      "label": "The Lost Castle In Darkmist",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\darwin.zip",
+      "label": "Darwin 4078 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ddayjlc.zip",
+      "label": "D-day (Jaleco set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ddp2.zip",
+      "label": "DoDonPachi II - Bee Storm (World, ver. 102)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ddpdfk.zip",
+      "label": "DoDonPachi Resurrection (2008/06/23 MASTER VER 1.5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dealer.zip",
+      "label": "The Dealer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\desertbr.zip",
+      "label": "Desert Breaker (World, FD1094 317-0196)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\devilfsh.zip",
+      "label": "Devil Fish",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\devstors.zip",
+      "label": "Devastators (ver. Z)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dfeveron.zip",
+      "label": "Dangun Feveron (Japan, Ver. 98/09/17)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dfkbl.zip",
+      "label": "DoDonPachi Dai-Fukkatsu Black Label (2010/1/18 BLACK LABEL)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\digdug.zip",
+      "label": "Dig Dug (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\digdug2.zip",
+      "label": "Dig Dug II (New Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dimahoo.zip",
+      "label": "Dimahoo (Euro 000121)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dingo.zip",
+      "label": "Dingo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dirtfoxj.zip",
+      "label": "Dirt Fox (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\disco.zip",
+      "label": "Disco No.1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\discoboy.zip",
+      "label": "Disco Boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\divebomb.zip",
+      "label": "Kyuukoukabakugekitai - Dive Bomber Squad",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dkong3.zip",
+      "label": "Donkey Kong 3 (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\docastle.zip",
+      "label": "Mr. Do's Castle (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dockman.zip",
+      "label": "Dock Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dogfight.zip",
+      "label": "Dog Fight (Thunderbolt)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dogyuun.zip",
+      "label": "Dogyuun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dommy.zip",
+      "label": "Dommy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\donight.zip",
+      "label": "Mr. Do!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dorachan.zip",
+      "label": "Dorachan (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dorodon.zip",
+      "label": "Dorodon (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\downtown.zip",
+      "label": "Downtown / Mokugeki (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dragnblz.zip",
+      "label": "Dragon Blaze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\drakton.zip",
+      "label": "Drakton (DK conversion)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dremshpr.zip",
+      "label": "Dream Shopper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\driftout.zip",
+      "label": "Drift Out (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\drivfrcp.zip",
+      "label": "Driving Force (Pac-Man conversion)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\drmicro.zip",
+      "label": "Dr. Micro",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dsaber.zip",
+      "label": "Dragon Saber (World, DO2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dspirit.zip",
+      "label": "Dragon Spirit (new version (DS3))",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dyger.zip",
+      "label": "Dyger (Korea set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dynamski.zip",
+      "label": "Dynamic Ski",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\earthjkr.zip",
+      "label": "U.N. Defense Force: Earth Joker (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\eeekk.zip",
+      "label": "Eeekk!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\efdt.zip",
+      "label": "El Fin Del Tiempo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\eggor.zip",
+      "label": "Eggor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\elecyoyo.zip",
+      "label": "The Electric Yo-Yo (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\espgal2.zip",
+      "label": "Espgaluda II (2005/11/14 MASTER VER)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\evilston.zip",
+      "label": "Evil Stone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\exedexes.zip",
+      "label": "Exed Exes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\exerion.zip",
+      "label": "Exerion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\explbrkr.zip",
+      "label": "Explosive Breaker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\eyes.zip",
+      "label": "Eyes (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\f1gp.zip",
+      "label": "F-1 Grand Prix",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\f1gp2.zip",
+      "label": "F-1 Grand Prix Part II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fantasia.zip",
+      "label": "Fantasia (940429 PCB, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fantastc.zip",
+      "label": "Fantastic (Galaga conversion on Galaxian hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fastlane.zip",
+      "label": "Fast Lane",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fghtatck.zip",
+      "label": "Fighter & Attacker (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fhawk.zip",
+      "label": "Fighting Hawk (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fightrol.zip",
+      "label": "Fighting Roller",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\finalizr.zip",
+      "label": "Finalizer - Super Transformation",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\firebatl.zip",
+      "label": "Fire Battle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fireshrk.zip",
+      "label": "Fire Shark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\firetrap.zip",
+      "label": "Fire Trap (US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fixeight.zip",
+      "label": "FixEight (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\flipjack.zip",
+      "label": "Flipper Jack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\flyboy.zip",
+      "label": "Fly-boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\flytiger.zip",
+      "label": "Flying Tiger (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fnkyfish.zip",
+      "label": "Funky Fish",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\freekick.zip",
+      "label": "Free Kick (NS6201-A 1987.10)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\freeze.zip",
+      "label": "Freeze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\frogger.zip",
+      "label": "Frogger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\frontlin.zip",
+      "label": "Front Line",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fshark.zip",
+      "label": "Flying Shark (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fspiderb.zip",
+      "label": "Frog & Spiders (bootleg?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\fstarfrc.zip",
+      "label": "Final Star Force (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\funkybee.zip",
+      "label": "Funky Bee",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gaiapols.zip",
+      "label": "Gaiapolis (ver EAF)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galaga88.zip",
+      "label": "Galaga ´88",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galaxian.zip",
+      "label": "Galaxian (Namco set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galaxygn.zip",
+      "label": "Galaxy Gunners",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galivan.zip",
+      "label": "Cosmo Police Galivan (12/26/1985)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galmedes.zip",
+      "label": "Galmedes (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galpani3.zip",
+      "label": "Gals Panic 3 (Euro)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galpanic.zip",
+      "label": "Gals Panic (Unprotected)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\galspnbl.zip",
+      "label": "Gals Pinball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gardia.zip",
+      "label": "Gardia (317-0006)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gbusters.zip",
+      "label": "Gang Busters (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\geebee.zip",
+      "label": "Gee Bee (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gekiridn.zip",
+      "label": "Gekirindan (Ver 2.3O 1995/09/21)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gemini.zip",
+      "label": "Gemini Wing (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gground.zip",
+      "label": "Gain Ground (World, 3 Players, Floppy Based, FD1094 317-0058-03)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ghox.zip",
+      "label": "Ghox (spinner)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gigas.zip",
+      "label": "Gigas (MC-8123, 317-5002)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gigasm2.zip",
+      "label": "Gigas Mark II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gmgalax.zip",
+      "label": "Ghostmuncher Galaxian (bootleg)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gnbarich.zip",
+      "label": "Gunbarich",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\goindol.zip",
+      "label": "Goindol (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gondo.zip",
+      "label": "Gondomania (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\grasspin.zip",
+      "label": "Grasspin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\grindstm.zip",
+      "label": "Grind Stormer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\grobda.zip",
+      "label": "Grobda (New Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gseeker.zip",
+      "label": "Grid Seeker: Project Storm Hammer (Ver 1.3O)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gstream.zip",
+      "label": "G-Stream G2020",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gulfstrm.zip",
+      "label": "Gulf Storm (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gulfwar2.zip",
+      "label": "Gulf War II (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gunbird2.zip",
+      "label": "Gunbird 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gunfront.zip",
+      "label": "Gun & Frontier (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gunlock.zip",
+      "label": "Gunlock (Ver 2.3O 1994/01/20)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gunnail.zip",
+      "label": "GunNail (28th May. 1992)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gunsmoke.zip",
+      "label": "Gun.Smoke (World, 851115)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\guzzler.zip",
+      "label": "Guzzler",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gwar.zip",
+      "label": "Guerrilla War (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gyrodine.zip",
+      "label": "Gyrodine",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\gyruss.zip",
+      "label": "Gyruss",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hal21.zip",
+      "label": "Hal21",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hamaway.zip",
+      "label": "Hammer Away (Japan, prototype)(Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\harem.zip",
+      "label": "Harem",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hbarrel.zip",
+      "label": "Heavy Barrel (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\himesiki.zip",
+      "label": "Himeshikibu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hoccer.zip",
+      "label": "Hoccer (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hopprobo.zip",
+      "label": "Hopper Robo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\horekid.zip",
+      "label": "Kid No Hore Hore Daisakusen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\horshoes.zip",
+      "label": "American Horseshoes (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hotdogst.zip",
+      "label": "Hotdog Storm (International)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hotpinbl.zip",
+      "label": "Hot Pinball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hotshock.zip",
+      "label": "Hot Shocker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hustler.zip",
+      "label": "Video Hustler",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\hwrace.zip",
+      "label": "High Way Race",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\igmo.zip",
+      "label": "Igmo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\imago.zip",
+      "label": "Imago (cocktail set)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\imgfight.zip",
+      "label": "Image Fight (World, revision A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\intrepid.zip",
+      "label": "Intrepid (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ixion.zip",
+      "label": "Ixion (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jack.zip",
+      "label": "Jack the Giantkiller (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jackal.zip",
+      "label": "Jackal (World, 8-way Joystick)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jcross.zip",
+      "label": "Jumping Cross (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jin.zip",
+      "label": "Jin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jjack.zip",
+      "label": "Jumping Jack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\joinem.zip",
+      "label": "Joinem",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jollyjgr.zip",
+      "label": "Jolly Jogger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\joyfulr.zip",
+      "label": "Joyful Road (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jrpacman.zip",
+      "label": "Jr. Pac-Man (11/9/83)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jumpbug.zip",
+      "label": "Jump Bug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jumpcoas.zip",
+      "label": "Jump Coaster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jumpkun.zip",
+      "label": "Jump Kun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jumpshot.zip",
+      "label": "Jump Shot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\jungler.zip",
+      "label": "Jungler",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\junofrst.zip",
+      "label": "Juno First",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kaitei.zip",
+      "label": "Kaitei Takara Sagashi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kamikcab.zip",
+      "label": "Kamikaze Cabbie",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kchamp.zip",
+      "label": "Karate Champ (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kick.zip",
+      "label": "Kick (Upright)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kicker.zip",
+      "label": "Kicker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kingball.zip",
+      "label": "King & Balloon (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kingdmgp.zip",
+      "label": "Kingdom Grandprix",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kingofb.zip",
+      "label": "King Of Boxer (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\krull.zip",
+      "label": "Krull",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\kyros.zip",
+      "label": "Kyros",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ladykill.zip",
+      "label": "Lady Killer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ladymstr.zip",
+      "label": "Lady Master of Kung Fu (set 1, newer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lasso.zip",
+      "label": "Lasso",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lastday.zip",
+      "label": "The Last Day (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lastduel.zip",
+      "label": "Last Duel (US New Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lastmisn.zip",
+      "label": "Last Mission (US revision 6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lazybug.zip",
+      "label": "lazybug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\leds2011.zip",
+      "label": "Led Storm Rally 2011 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\legion.zip",
+      "label": "Legion: Spinner-87 (World ver 2.03)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lethalth.zip",
+      "label": "Lethal Thunder (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\levers.zip",
+      "label": "Levers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lgtnfght.zip",
+      "label": "Trigon (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\liberate.zip",
+      "label": "Liberation",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lizwiz.zip",
+      "label": "Lizard Wizard",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lnc.zip",
+      "label": "Lock 'n' Chase",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\locomotn.zip",
+      "label": "Loco-motion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\losttomb.zip",
+      "label": "Lost Tomb (easy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\loverboy.zip",
+      "label": "Lover Boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lsasquad.zip",
+      "label": "Land Sea Air Squad",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\luctoday.zip",
+      "label": "Lucky Today",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\lwings.zip",
+      "label": "Legendary Wings (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\m660.zip",
+      "label": "Mission 660 (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\machomou.zip",
+      "label": "Macho Mouse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\macross.zip",
+      "label": "Super Spacefortress Macross",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\macrossp.zip",
+      "label": "Macross Plus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\madgear.zip",
+      "label": "Led Storm (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\maniach.zip",
+      "label": "Mania Challenge (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\manybloc.zip",
+      "label": "Many Block",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mappy.zip",
+      "label": "Mappy (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mariner.zip",
+      "label": "Mariner",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mars.zip",
+      "label": "Mars",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\marvins.zip",
+      "label": "Marvin's Maze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\masterw.zip",
+      "label": "Master of Weapon (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\matmania.zip",
+      "label": "Mat Mania",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mazinger.zip",
+      "label": "Mazinger Z (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\megadon.zip",
+      "label": "Megadon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\megazone.zip",
+      "label": "Mega Zone (program code L)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mercs.zip",
+      "label": "Mercs (World 900302)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\merlinmm.zip",
+      "label": "Merlin's Money Maze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\metafox.zip",
+      "label": "Meta Fox",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\metlfrzr.zip",
+      "label": "Metal Freezer (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mightguy.zip",
+      "label": "Mighty Guy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mikie.zip",
+      "label": "Mikie",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\milliped.zip",
+      "label": "Millipede",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mimonkey.zip",
+      "label": "Mighty Monkey",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\minefld.zip",
+      "label": "Minefield",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\misncrft.zip",
+      "label": "Mission Craft (version 2.7)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mjleague.zip",
+      "label": "Major League",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mmonkey.zip",
+      "label": "Minky Monkey",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mofflott.zip",
+      "label": "Maze Of Flott (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\moguchan.zip",
+      "label": "Mogu Chan (bootleg?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\moonal2.zip",
+      "label": "Moon Alien Part 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mooncrst.zip",
+      "label": "Moon Cresta (Nichibutsu)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\moonqsr.zip",
+      "label": "Moon Quasar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\moonwar.zip",
+      "label": "Moonwar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\motos.zip",
+      "label": "Motos",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mouser.zip",
+      "label": "Mouser",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mplanets.zip",
+      "label": "Mad Planets",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrdo.zip",
+      "label": "Mr. Do!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrflea.zip",
+      "label": "The Amazing Adventures of Mr. F. Lea",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrjong.zip",
+      "label": "Mr. Jong (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrkougar.zip",
+      "label": "Mr. Kougar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrsdyna.zip",
+      "label": "Mrs. Dynamite",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrtnt.zip",
+      "label": "Mr. TNT",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mrviking.zip",
+      "label": "Mister Viking (315-5041)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mspacman.zip",
+      "label": "Ms. Pac-Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mspactwin.zip",
+      "label": "Ms Pac Man Twin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mspuzzle.zip",
+      "label": "Miss Puzzle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\musicbal.zip",
+      "label": "Music Ball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mustache.zip",
+      "label": "Mustache Boy (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mx5000.zip",
+      "label": "MX5000",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mystston.zip",
+      "label": "Mysterious Stones - Dr. John's Adventure",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\naughtyb.zip",
+      "label": "Naughty Boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\navarone.zip",
+      "label": "Navarone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\nebulray.zip",
+      "label": "Nebulas Ray (World, NR2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\netwars.zip",
+      "label": "Net Wars",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\newfant.zip",
+      "label": "New Fantasia (1995 copyright)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\newsin7.zip",
+      "label": "New Sinbad 7 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\nibbler.zip",
+      "label": "Nibbler (rev 9)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ninjemak.zip",
+      "label": "Ninja Emaki (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\nitrobal.zip",
+      "label": "Nitro Ball (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\nmouse.zip",
+      "label": "Naughty Mouse (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\nob.zip",
+      "label": "Noboranka (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\nost.zip",
+      "label": "Nostradamus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\olibochu.zip",
+      "label": "Oli-boo-chu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\omega.zip",
+      "label": "Omega",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\omegaf.zip",
+      "label": "Omega Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ooparts.zip",
+      "label": "OOPArts",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\orbitron.zip",
+      "label": "Orbitron",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\outzone.zip",
+      "label": "Out Zone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ozon1.zip",
+      "label": "Ozon I",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\packbang.zip",
+      "label": "Pack'n Bang Bang (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pacmania.zip",
+      "label": "Pac-Mania",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pacnpal.zip",
+      "label": "Pac & Pal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pacplus.zip",
+      "label": "Pac-man Plus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pairlove.zip",
+      "label": "Pairs Love",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pandoras.zip",
+      "label": "Pandora's Palace",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\paprazzi.zip",
+      "label": "Paparazzi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\passsht.zip",
+      "label": "Passing Shot (World, 2 Players, FD1094 317-0080)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pbaction.zip",
+      "label": "Pinball Action (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pballoon.zip",
+      "label": "Pioneer Balloon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pengo.zip",
+      "label": "Pengo (set 1 rev c)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\percuss.zip",
+      "label": "The Percussor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\perfrman.zip",
+      "label": "Performan (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\phelios.zip",
+      "label": "Phelios",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\phoenix.zip",
+      "label": "Phoenix (Amstar, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\phozon.zip",
+      "label": "Phozon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pickin.zip",
+      "label": "Pickin'",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pinbo.zip",
+      "label": "Pinbo (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pinkswts.zip",
+      "label": "Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER....)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pisces.zip",
+      "label": "Pisces",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pitnrun.zip",
+      "label": "Pit & Run - F-1 Race (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\playball.zip",
+      "label": "Playball! (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pleiads.zip",
+      "label": "Pleiads (Tehkan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\plgirls.zip",
+      "label": "Play Girls",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\plgirls2.zip",
+      "label": "Play Girls 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pollux.zip",
+      "label": "Pollux (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pooyan.zip",
+      "label": "Pooyan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\popflame.zip",
+      "label": "Pop Flamer (protected)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\popper.zip",
+      "label": "Popper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\porky.zip",
+      "label": "Porky",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\poundfor.zip",
+      "label": "Pound For Pound (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pprobe.zip",
+      "label": "Planet Probe (prototype?)(Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\progolf.zip",
+      "label": "18 Holes Pro Golf (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\progress.zip",
+      "label": "Progress",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\promutrv.zip",
+      "label": "Progressive Music Trivia (Question set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\proneon.zip",
+      "label": "proneon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\prtytime.zip",
+      "label": "Party Time: Gonta the Diver II (World Release)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\psurge.zip",
+      "label": "Power Surge",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\psychic5.zip",
+      "label": "Psychic 5 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\pturn.zip",
+      "label": "Parallel Turn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\puckman.zip",
+      "label": "Puck Man (Japan set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\qix.zip",
+      "label": "Qix (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\quantum.zip",
+      "label": "Quantum (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\quester.zip",
+      "label": "Quester (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\r2dx_v33.zip",
+      "label": "Raiden II New / Raiden DX (newer V33 PCB, Raiden DX EEPROM)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rackemup.zip",
+      "label": "Rack 'em Up (program code L)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\radarscp.zip",
+      "label": "Radar Scope",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\raflesia.zip",
+      "label": "Rafflesia (315-5162)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\raiden2.zip",
+      "label": "Raiden II (US, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\raidendx.zip",
+      "label": "Raiden DX (UK)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rallybik.zip",
+      "label": "Rally Bike / Dash Yarou",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\razmataz.zip",
+      "label": "Razzmatazz",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rdft.zip",
+      "label": "Raiden Fighters (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rdft2.zip",
+      "label": "Raiden Fighters 2 - Operation Hell Dive (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\reaktor.zip",
+      "label": "Reaktor (Track & Field conversion)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\redclash.zip",
+      "label": "Red Clash (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\redrobin.zip",
+      "label": "Red Robin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\redufo.zip",
+      "label": "Defend the Terra Attack on the Red UFO",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\regulus.zip",
+      "label": "Regulus (315-5033, Rev A.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\repulse.zip",
+      "label": "Repulse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rescue.zip",
+      "label": "Rescue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\retofinv.zip",
+      "label": "Return of the Invaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\revngr84.zip",
+      "label": "Revenger '84",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rfjet.zip",
+      "label": "Raiden Fighters Jet (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ridleofp.zip",
+      "label": "Riddle Of Pythagoras (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\roadf.zip",
+      "label": "Road Fighter (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rockduck.zip",
+      "label": "Rock Duck (prototype?)(Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rockn.zip",
+      "label": "Rock'n Tread (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rockn2.zip",
+      "label": "Rock'n Tread 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rockn3.zip",
+      "label": "Rock'n 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rockn4.zip",
+      "label": "Rock'n 4 (Japan, prototype)(Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rocktrv2.zip",
+      "label": "Mtv Rock-n-roll Trivia (Part 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rompers.zip",
+      "label": "Rompers (Japan, new version (Rev B))",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\roundup.zip",
+      "label": "Round-up",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rshark.zip",
+      "label": "R-Shark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\rumba.zip",
+      "label": "Rumba Lumber",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ryujin.zip",
+      "label": "Ryu Jin (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\s1945ii.zip",
+      "label": "Strikers 1945 II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\s1945iii.zip",
+      "label": "Strikers 1945 III (World) / Strikers 1999 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\samurai.zip",
+      "label": "Samurai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\samuraia.zip",
+      "label": "Sengoku Aces (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sandscrp.zip",
+      "label": "Sand Scorpion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\saturnzi.zip",
+      "label": "Saturn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sbagman.zip",
+      "label": "Super Bagman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sbasketb.zip",
+      "label": "Super Basketball (version I, encrypted)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sbomber.zip",
+      "label": "Space Bomber (ver. B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scobra.zip",
+      "label": "Super Cobra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scontra.zip",
+      "label": "Super Contra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scorpion.zip",
+      "label": "Scorpion (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scotrsht.zip",
+      "label": "Scooter Shooter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scramble.zip",
+      "label": "Scramble",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scregg.zip",
+      "label": "Scrambled Egg",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\scudhamm.zip",
+      "label": "Scud Hammer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sdungeon.zip",
+      "label": "Space Dungeon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\searchar.zip",
+      "label": "SAR: Search And Rescue (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\seicross.zip",
+      "label": "Seicross",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sengekis.zip",
+      "label": "Sengeki Striker (Asia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\senjyo.zip",
+      "label": "Senjyo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\shollow.zip",
+      "label": "Satan's Hollow (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\shtrider.zip",
+      "label": "Shot Rider",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\silvmil.zip",
+      "label": "Silver Millennium",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sinistar.zip",
+      "label": "Sinistar (revision 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\skullfng.zip",
+      "label": "Skull Fang (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\skyalert.zip",
+      "label": "Sky Alert",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\skyarmy.zip",
+      "label": "Sky Army",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\skybase.zip",
+      "label": "Sky Base",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\skyfox.zip",
+      "label": "Sky Fox",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\skylancr.zip",
+      "label": "Sky Lancer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\slither.zip",
+      "label": "Slither (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\slspirit.zip",
+      "label": "Solite Spirits",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\solarfox.zip",
+      "label": "Solar Fox (Upright)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sonicbom.zip",
+      "label": "Sonic Boom (FD1094 317-0053)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sos.zip",
+      "label": "Sos",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\spacecr.zip",
+      "label": "Space Cruiser",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\spcinv95.zip",
+      "label": "Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\spcpostn.zip",
+      "label": "Space Position (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\spdcoin.zip",
+      "label": "Speed Coin (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\speakres.zip",
+      "label": "Stratovox",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\spec2k.zip",
+      "label": "Fire Hawk (vertical)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\speedbal.zip",
+      "label": "Speed Ball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\springer.zip",
+      "label": "Springer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\spyhunt.zip",
+      "label": "Spy Hunter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sraider.zip",
+      "label": "Space Raider",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\srdarwin.zip",
+      "label": "Super Real Darwin (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\srdmissn.zip",
+      "label": "S.R.D. Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\srumbler.zip",
+      "label": "The Speed Rumbler (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ssi.zip",
+      "label": "Super Space Invaders '91 (World, rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ssmissin.zip",
+      "label": "S.S. Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ssozumo.zip",
+      "label": "Syusse Oozumou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sspirits.zip",
+      "label": "Scramble Spirits (World, Floppy Based)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sstingry.zip",
+      "label": "Super Stingray (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sstriker.zip",
+      "label": "Sorcer Striker (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\stagger1.zip",
+      "label": "Stagger I (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\starfigh.zip",
+      "label": "Star Fighter (V1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\starforc.zip",
+      "label": "Star Force",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\starjack.zip",
+      "label": "Star Jacker (Sega)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\stg.zip",
+      "label": "Strike Gunner S.T.G",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\stmblade.zip",
+      "label": "Storm Blade (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\streakng.zip",
+      "label": "Streaking (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\strvmstr.zip",
+      "label": "Super Trivia Master",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\stuntair.zip",
+      "label": "Stunt Air",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sub.zip",
+      "label": "Submarine (Sigma)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\sucasino.zip",
+      "label": "ZZZ(notgame):Super Casino",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\superbon.zip",
+      "label": "Agent Super Bond (Super Cobra conversion)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\superpac.zip",
+      "label": "Super Pac-Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\superx.zip",
+      "label": "Super-x (NTC)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\supmodel.zip",
+      "label": "Super Model",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\suprglob.zip",
+      "label": "Super Glob",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\suprmous.zip",
+      "label": "Super Mouse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\suprridr.zip",
+      "label": "Super Rider",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\swat.zip",
+      "label": "SWAT (315-5048)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tacscan.zip",
+      "label": "Tac/scan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tactcian.zip",
+      "label": "Tactician (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tail2nos.zip",
+      "label": "Tail To Nose - Great Championship",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tankbust.zip",
+      "label": "Tank Busters",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tazmania.zip",
+      "label": "Tazz-Mania (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tdpgal.zip",
+      "label": "Triple Draw Poker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tdragon.zip",
+      "label": "Thunder Dragon (8th Jan. 1992, unprotected)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tdragon2.zip",
+      "label": "Thunder Dragon 2 (9th Nov. 1993)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tempest.zip",
+      "label": "Tempest (rev 3, Revised Hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tharrier.zip",
+      "label": "Task Force Harrier",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\thedeep.zip",
+      "label": "The Deep (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\theend.zip",
+      "label": "The End",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\thepit.zip",
+      "label": "The Pit",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\thunderl.zip",
+      "label": "Thunder & Lightning",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\timelimt.zip",
+      "label": "Time Limit",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\timeplt.zip",
+      "label": "Time Pilot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\timescan.zip",
+      "label": "Time Scanner (set 2, System 16B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tndrcade.zip",
+      "label": "Thundercade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tnextspc.zip",
+      "label": "The Next Space (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tnk3.zip",
+      "label": "T.N.K III (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\todruaga.zip",
+      "label": "The Tower of Druaga (New Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tokio.zip",
+      "label": "Tokio (newer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tokisens.zip",
+      "label": "Toki no Senshi: Chrono-Soldier",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\toobin.zip",
+      "label": "Toobin' (rev 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tp84.zip",
+      "label": "Time Pilot '84 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\travrusa.zip",
+      "label": "Traverse Usa / Zippy Race",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tricktrp.zip",
+      "label": "Trick Trap (World?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\triplep.zip",
+      "label": "Triple Punch (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tripool.zip",
+      "label": "Tri-pool (Casino Tech)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\truxton.zip",
+      "label": "Truxton",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\truxton2.zip",
+      "label": "Truxton II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\trvmstr.zip",
+      "label": "Trivia Master (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tsamurai.zip",
+      "label": "Samurai Nihon-ichi (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\turbofrc.zip",
+      "label": "Turbo Force (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\turtles.zip",
+      "label": "600",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\tutankhm.zip",
+      "label": "Tutankham",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\twinbee.zip",
+      "label": "Twinbee (ROM version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\twincobr.zip",
+      "label": "Twin Cobra (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\twineag2.zip",
+      "label": "Twin Eagle II - The Rescue Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\twineagl.zip",
+      "label": "Twin Eagle - Revenge Joe's Brother",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\twinhawk.zip",
+      "label": "Twin Hawk (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ultrax.zip",
+      "label": "Ultra X Weapons",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\unclepoo.zip",
+      "label": "Uncle Poo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\uniwars.zip",
+      "label": "UniWar S",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\upndown.zip",
+      "label": "Up'n Down (315-5030)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\usclssic.zip",
+      "label": "U.s. Classic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\valkyrie.zip",
+      "label": "Valkyrie no Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\valtric.zip",
+      "label": "Valtric",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vandyke.zip",
+      "label": "Vandyke (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vangrd2.zip",
+      "label": "Vanguard II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vanvan.zip",
+      "label": "Van-Van Car",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vaportra.zip",
+      "label": "Vapor Trail: Hyper Offence Formation (World revision 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\varth.zip",
+      "label": "Varth: Operation Thunderstorm (World 920714)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vasara.zip",
+      "label": "Vasara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vasara2.zip",
+      "label": "Vasara 2 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vastar.zip",
+      "label": "Vastar (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\victoryc.zip",
+      "label": "Victory",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vimana.zip",
+      "label": "Vimana (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\viprp1.zip",
+      "label": "Viper Phase 1 (New Version, World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vmetal.zip",
+      "label": "Varia Metal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\volfied.zip",
+      "label": "Volfied (World, revision 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vsgongf.zip",
+      "label": "Vs Gong Fight",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\vulgus.zip",
+      "label": "Vulgus (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wanted.zip",
+      "label": "Wanted",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\warofbug.zip",
+      "label": "War of the Bugs or Monsterous Manouvers in a Mushr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\warpwarp.zip",
+      "label": "Warp & Warp",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\waterski.zip",
+      "label": "Water Ski",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wiggie.zip",
+      "label": "Wiggie Waggie",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wingforc.zip",
+      "label": "Wing Force (Japan, prototype)(Proto.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wiping.zip",
+      "label": "Wiping",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wivernwg.zip",
+      "label": "Wivern Wings",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wiz.zip",
+      "label": "Wiz",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wmatch.zip",
+      "label": "Water Match (315-5064)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wndrplnt.zip",
+      "label": "Wonder Planet (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\woodpeck.zip",
+      "label": "Woodpecker (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wrestwar.zip",
+      "label": "Wrestle War (set 3, World, 8751 317-0103)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wrofaero.zip",
+      "label": "War of Aero: Project MEIOU",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wwestern.zip",
+      "label": "Wild Western (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\wyvernf0.zip",
+      "label": "Wyvern F-0",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\xxmissio.zip",
+      "label": "XX Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\yamagchi.zip",
+      "label": "Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\yamato.zip",
+      "label": "Yamato (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\youjyudn.zip",
+      "label": "Youjyuden (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\zaviga.zip",
+      "label": "Zaviga",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\zigzagb.zip",
+      "label": "Zig Zag (Galaxian hardware, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\zipzap.zip",
+      "label": "Zip & Zap",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\zoar.zip",
+      "label": "Zoar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\zodiack.zip",
+      "label": "Zodiack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\zzyzzyxx.zip",
+      "label": "Zzyzzyxx (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ddonpach.zip",
+      "label": "DoDonPachi (International, Master Ver. 97/02/05)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\esprade.zip",
+      "label": "ESP Ra.De. (International, Ver. 98/04/22)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\armedf.zip",
+      "label": "Armed Formation",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\1941j.zip",
+      "label": "1941: Counter Attack (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\1942.zip",
+      "label": "1942 (Revision B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\1943kai.zip",
+      "label": "1943 Kai: Midway Kaisen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\1943mii.zip",
+      "label": "1943: The Battle of Midway Mark II (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\1943u.zip",
+      "label": "1943: The Battle of Midway (US, Rev C)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\1945kiii.zip",
+      "label": "1945k III (newer, OPCX2 PCB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\19xxu.zip",
+      "label": "19XX : The War Against Destiny",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ibara.zip",
+      "label": "Ibara (2005/03/22 MASTER VER..)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ibarablk.zip",
+      "label": "Ibara Kuro Black Label (2006/02/06. MASTER VER.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\aa.zip",
+      "label": "aa",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\dderby.zip",
+      "label": "dderby",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ddpsdoj.zip",
+      "label": "ddpsdoj",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\futari15.zip",
+      "label": "Mushihime-Sama Futari (2006/12/8.MASTER VER. 1.54.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\futaribl.zip",
+      "label": "Mushihime-Sama Futari Black Label (2009/11/27 INTERNATIONAL BL)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\ladybug.zip",
+      "label": "Lady Bug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\megrescu.zip",
+      "label": "megrescu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mmpork.zip",
+      "label": "Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\mushisam.zip",
+      "label": "Mushihime-Sama (2004/10/12.MASTER VER.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\fbneo\\bace.zip",
+      "label": "bace",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

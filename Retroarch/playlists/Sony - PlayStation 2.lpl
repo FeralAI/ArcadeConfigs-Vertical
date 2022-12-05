@@ -1,0 +1,116 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Emulators\\RetroArch\\cores\\pcsx2_libretro.dll",
+  "default_core_name": "Sony - PlayStation 2 (PCSX2)",
+  "base_content_directory": "C:\\ROMs\\ps2",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMs\\ps2\\Dodonpachi Dai-Ou-Jou (Japan).chd",
+      "label": "DoDonPachi Dai-Ou-Jou",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Espgaluda (Japan).chd",
+      "label": "Espgaluda",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Gunbird 1 & 2 (Japan).chd",
+      "label": "Gunbird 1 & 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Gunbird Special Edition (Europe) (En,Fr,De).chd",
+      "label": "Gunbird Special Edition",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Homura (Japan).chd",
+      "label": "Homura",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Ibara (Japan).chd",
+      "label": "Ibara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Mushihime-sama (Japan).chd",
+      "label": "Mushihime-sama",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Psikyo Shooting Collection (Hack).chd",
+      "label": "Psikyo Shooting Collection (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Raiden III (USA).chd",
+      "label": "Raiden III",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Shooting Love - Trizeal (Japan).chd",
+      "label": "Shooting Love - Trizeal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Vertical Shooting -The Best- (Hack).chd",
+      "label": "Vertical Shooting -The Best- (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\XII Stag (Japan).chd",
+      "label": "XII Stag",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\ps2\\Yokushin - GigaWing Generations (Japan).chd",
+      "label": "Yokushin : Giga Wing Generations",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -11,6 +11,8 @@ async Task Main()
 {
 	var appIds = new List<int>
 	{
+		582980,  // Castle of Shikigami
+		1556650, // Castle of Shikigami 2
 		1718160, // Crimzon_Clover_World_EXplosion
 		280560,  // Danmaku_Unlimited_2
 		450950,  // Danmaku_Unlimited_3

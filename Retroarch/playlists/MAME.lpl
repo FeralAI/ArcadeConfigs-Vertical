@@ -1,0 +1,3604 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Emulators\\RetroArch\\cores\\mame_libretro.dll",
+  "default_core_name": "Arcade (MAME - Current)",
+  "base_content_directory": "C:\\ROMs\\mame",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMs\\mame\\005.zip",
+      "label": "005",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bowl3d.zip",
+      "label": "3-d Bowling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\39in1.zip",
+      "label": "39 In 1 Mame Bootleg",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\60in1.zip",
+      "label": "39 In 1 Mame Bootleg (ver 3.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\jantotsu.zip",
+      "label": "4nin-uchi Mahjong Jantotsu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mag_day.zip",
+      "label": "A Day In Space",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\aerofgts.zip",
+      "label": "Aero Fighters Special (Taiwan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\airraid.zip",
+      "label": "Air Raid (Single PCB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\alinvade.zip",
+      "label": "Alien Invaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\aafb.zip",
+      "label": "All American Football (Rev E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\alleymas.zip",
+      "label": "Alley Master",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\alphaho.zip",
+      "label": "Alpha Fighter / Head On",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\altair.zip",
+      "label": "Altair",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\amidarc.zip",
+      "label": "Amidar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\andromed.zip",
+      "label": "Andromeda (Japan?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\anmlbskt.zip",
+      "label": "Animal Basket (24 Jan 2005)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\apb.zip",
+      "label": "Apb - All Points Bulletin (rev 7)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\arknoid2.zip",
+      "label": "Arkanoid - Revenge Of Doh (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\astrob.zip",
+      "label": "Astro Blaster (version 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\strfight.zip",
+      "label": "Astro Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\asterion.zip",
+      "label": "Astro Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\astrof.zip",
+      "label": "Astro Fighter (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\abattle.zip",
+      "label": "Astro Fighter (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\acombat3.zip",
+      "label": "Astro Fighter (unencrypted)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\asylum.zip",
+      "label": "Asylum (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mgolf.zip",
+      "label": "Atari Mini Golf (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\attckufo.zip",
+      "label": "Attack Ufo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\babypac.zip",
+      "label": "Baby Pac-man (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ballbomb.zip",
+      "label": "Balloon Bomber",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bandit.zip",
+      "label": "Bandit",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\barrier.zip",
+      "label": "Barrier",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\beaminv.zip",
+      "label": "Beam Invader",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ctainv.zip",
+      "label": "Beam Invader",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pacominv.zip",
+      "label": "Beam Invader",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\beezer.zip",
+      "label": "Beezer (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\betafrce.zip",
+      "label": "betafrce",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bigevglf.zip",
+      "label": "Big Event Golf (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bngotime.zip",
+      "label": "Bingo Time",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bking.zip",
+      "label": "Birdie King",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bking2.zip",
+      "label": "Birdie King 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bking3.zip",
+      "label": "Birdie King 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\blackhol.zip",
+      "label": "Black Hole (EFG Sanremo)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\blokpong.zip",
+      "label": "Block Pong-pong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\blockch.zip",
+      "label": "blockch",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\atombjt.zip",
+      "label": "Bombjack Twin (bootleg of Bombjack Twin)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bombsa.zip",
+      "label": "Bombs Away (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\brdrline.zip",
+      "label": "Borderline",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bowler.zip",
+      "label": "Bowling Alley",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\brvblade.zip",
+      "label": "Brave Blade (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\brickzn.zip",
+      "label": "Brick Zone (v6.0, Joystick)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bullfgtr.zip",
+      "label": "Bull Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\bullsdrt.zip",
+      "label": "Bulls Eye Darts",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cookrace.zip",
+      "label": "Burger Time",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\clbowl.zip",
+      "label": "Capcom Bowling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\captflag.zip",
+      "label": "Captain Flag",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invds.zip",
+      "label": "Car Hunt / Deep Scan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\carhntds.zip",
+      "label": "Car Hunt / Deep Scan (France)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\carnival.zip",
+      "label": "Carnival (Upright)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\catnmous.zip",
+      "label": "Cat And Mouse (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\catapult.zip",
+      "label": "Catapult",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\millpac.zip",
+      "label": "Centipede (bootleg of Centipede)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\magworm.zip",
+      "label": "Centipede (bootleg of Centipede, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cmmb103.zip",
+      "label": "Centipede / Millipede / Missile Command / Let's Go",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cmmb162.zip",
+      "label": "Centipede / Millipede / Missile Command / Let's Go (rev 1.62)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\champbwl.zip",
+      "label": "Championship Bowling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cheekyms.zip",
+      "label": "Cheeky Mouse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cfarm.zip",
+      "label": "Chicken Farm (Version 2.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\chopper.zip",
+      "label": "Chopper I (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cocoloco.zip",
+      "label": "Coco Loco (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\combh.zip",
+      "label": "Combat Hawk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\congo.zip",
+      "label": "Congo Bongo (Rev C, 2 board stack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\contra.zip",
+      "label": "Contra (US / Asia, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cosmica.zip",
+      "label": "Cosmic Alien (version II)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cchasm.zip",
+      "label": "Cosmic Chasm (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cosmicg.zip",
+      "label": "Cosmic Guerilla",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cosmo.zip",
+      "label": "Cosmo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cosmos.zip",
+      "label": "Cosmos",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cntsteer.zip",
+      "label": "Counter Steer (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cowtipp.zip",
+      "label": "cowtipp",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cybattlr.zip",
+      "label": "Cybattler",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cyclshtg.zip",
+      "label": "Cycle Shooting",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dai3wksi.zip",
+      "label": "Dai San Wakusei Meteor (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\daioh.zip",
+      "label": "Daioh",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\darkwar.zip",
+      "label": "Dark Warrior",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dazzler.zip",
+      "label": "Dazzler",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\demoneye.zip",
+      "label": "Demoneye-x",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\desertwr.zip",
+      "label": "Desert War",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\destryer.zip",
+      "label": "Destroyer (Cidelsa, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\devzone.zip",
+      "label": "Devil Zone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\digger.zip",
+      "label": "Digger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\diggerc.zip",
+      "label": "Digger (CVS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ddpdojt.zip",
+      "label": "DoDonPachi Dai-Ou-Jou Tamashii",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dkong.zip",
+      "label": "Donkey Kong (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dkongjr.zip",
+      "label": "Donkey Kong Junior (US set F-2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\donpachi.zip",
+      "label": "DonPachi (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dcheese.zip",
+      "label": "Double Cheese",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dblewing.zip",
+      "label": "Double Wings",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\drtoppel.zip",
+      "label": "Dr. Toppel's Adventure (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\draco.zip",
+      "label": "Draco",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\drivfrct.zip",
+      "label": "Driving Force (bootleg of Driving Force)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\drivfrcb.zip",
+      "label": "Driving Force (Galaxian conversion bootleg)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dynadice.zip",
+      "label": "Dynamic Dice",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\dynobop.zip",
+      "label": "Dyno Bop (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\8bpm.zip",
+      "label": "Eight Ball Action (Pac-Man conversion)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\eightfrc.zip",
+      "label": "Eight Forces",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\enigma2.zip",
+      "label": "Enigma II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\equites.zip",
+      "label": "Equites",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\exctsccr.zip",
+      "label": "Exciting Soccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\exctscc2.zip",
+      "label": "Exciting Soccer II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\extrmatn.zip",
+      "label": "Extermination (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\failgate.zip",
+      "label": "Fail Gate",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\fantasyu.zip",
+      "label": "Fantasy (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sqbert.zip",
+      "label": "Faster, Harder, More Challenging Q*bert (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\fcombat.zip",
+      "label": "Field Combat",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\fgoal.zip",
+      "label": "Field Goal (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\firetrk.zip",
+      "label": "Fire Truck / Smokey Joe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\fiveside.zip",
+      "label": "Five A Side Soccer (ver UAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\fourplay.zip",
+      "label": "Four Play",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\quaak.zip",
+      "label": "Frogger (bootleg of Frogger)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ron2.zip",
+      "label": "Futari Mahjong Ron II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\futflash.zip",
+      "label": "Future Flash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\futspy.zip",
+      "label": "Future Spy (315-5061)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galactic.zip",
+      "label": "Galactica - Batalha Espacial",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galaga.zip",
+      "label": "Galaga (Namco rev. B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galaxia.zip",
+      "label": "Galaxia (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galkamika.zip",
+      "label": "Galaxian",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galgame.zip",
+      "label": "Galaxy Game",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\starw.zip",
+      "label": "Galaxy Wars (bootleg of Galaxy Wars, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galxwars.zip",
+      "label": "Galaxy Wars (Universal set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galpanicms.zip",
+      "label": "Gals Panic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galsnew.zip",
+      "label": "Gals Panic (US, EXPRO-02 PCB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galpani2.zip",
+      "label": "Gals Panic II (Asia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gp2quiz.zip",
+      "label": "Gals Panic II - Quiz Version",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gp2se.zip",
+      "label": "Gals Panic II' - Special Edition (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gaplus.zip",
+      "label": "Gaplus (GP2 rev. B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gekisou.zip",
+      "label": "Gekisou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gemcrush.zip",
+      "label": "Gemcrush",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\getaway.zip",
+      "label": "Get A Way",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\goldbug.zip",
+      "label": "Gold Bug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gomoku.zip",
+      "label": "Gomoku Narabe Renju",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gorf.zip",
+      "label": "Gorf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\grchamp.zip",
+      "label": "Grand Champion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gcpinbal.zip",
+      "label": "Grand Cross",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\greenber.zip",
+      "label": "Green Beret (Irem)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gundealr.zip",
+      "label": "Gun Dealer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gunbird.zip",
+      "label": "Gunbird (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gundhara.zip",
+      "label": "Gundhara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\guwange.zip",
+      "label": "Guwange (Japan, Master Ver. 99/06/24)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\halleysc.zip",
+      "label": "Halley's Comet (Japan, newer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hyhoo.zip",
+      "label": "Hayaoshi Taisen Quiz Hyhoo (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hyhoo2.zip",
+      "label": "Hayaoshi Taisen Quiz Hyhoo 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\headoni.zip",
+      "label": "Head On (Irem, M-15 Hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\heartatk.zip",
+      "label": "Heart Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\heiankyo.zip",
+      "label": "Heiankyo Alien",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\helifire.zip",
+      "label": "Helifire (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hero.zip",
+      "label": "Hero",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\highroll.zip",
+      "label": "High Roller",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hstennis.zip",
+      "label": "Hot Shots Tennis (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hunchbak.zip",
+      "label": "Hunchback (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\huncholy.zip",
+      "label": "Hunchback at the Olympics",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ikari.zip",
+      "label": "Ikari Warriors (US JAMMA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\illvelo.zip",
+      "label": "Illmatic Envelope (Illmatic Envelope, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\imolagp.zip",
+      "label": "Imola Grand Prix (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\indianbt.zip",
+      "label": "Indian Battle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invrvnge.zip",
+      "label": "Invader's Revenge (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invasion.zip",
+      "label": "Invasion (Sidam)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invinco.zip",
+      "label": "Invinco",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invcarht.zip",
+      "label": "Invinco / Car Hunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invho2.zip",
+      "label": "Invinco / Head On 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ipminvad.zip",
+      "label": "Ipm Invader",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\jackrabt.zip",
+      "label": "Jack Rabbit (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\teamqb.zip",
+      "label": "John Elway's Team Quarterback (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\josvolly.zip",
+      "label": "Joshi Volleyball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\journey.zip",
+      "label": "Journey",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\joust2.zip",
+      "label": "Joust 2: Survival of the Fittest (revision 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kageki.zip",
+      "label": "Kageki (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kamikaze.zip",
+      "label": "Kamikaze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kosmokil.zip",
+      "label": "Kamikaze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kangaroo.zip",
+      "label": "Kangaroo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kaos.zip",
+      "label": "Kaos",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kikikai.zip",
+      "label": "KiKi KaiKai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\koikoi.zip",
+      "label": "Koi Koi Part 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\konam80s.zip",
+      "label": "Konami 80's Ac Special (GC826 VER. EAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\konam80u.zip",
+      "label": "Konami 80's Ac Special (GC826 VER. UAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\kong.zip",
+      "label": "Kong (Donkey Kong conversion on Galaxian hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\krzybowl.zip",
+      "label": "Krazy Bowl",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ladyfrog.zip",
+      "label": "Lady Frog",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\lagunar.zip",
+      "label": "Laguna Racer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\logger.zip",
+      "label": "Logger (Rev.3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\looping.zip",
+      "label": "Looping",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\luckyrlt.zip",
+      "label": "Lucky Roulette Plus (6-players, Spanish)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\lrescue.zip",
+      "label": "Lunar Rescue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\resclunar.zip",
+      "label": "Lunar Rescue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\lupin3.zip",
+      "label": "Lupin III (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\madalien.zip",
+      "label": "Mad Alien (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\madshark.zip",
+      "label": "Mad Shark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\magspot.zip",
+      "label": "Magical Spot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\magspot2.zip",
+      "label": "Magical Spot II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\jongbou.zip",
+      "label": "Mahjong Block Jongbou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\jongbou2.zip",
+      "label": "Mahjong Block Jongbou 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\msjiken.zip",
+      "label": "Mahjong Satsujin Jiken (Japan 881017)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mamonoro.zip",
+      "label": "Mamoru-kun wa Norowarete Shimatta! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\marinedt.zip",
+      "label": "Marine Date",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\yukiwo.zip",
+      "label": "Master of Weapon (World, prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mazeinv.zip",
+      "label": "Maze Invaders (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\msisaac.zip",
+      "label": "Metal Soldier Isaac II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\micon2.zip",
+      "label": "micon2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mirax.zip",
+      "label": "Mirax (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mocapb.zip",
+      "label": "Mocap Boxing (ver AAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\monymony.zip",
+      "label": "Money Money (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mmagic.zip",
+      "label": "Monkey Magic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\monsterb.zip",
+      "label": "Monster Bash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\montecar.zip",
+      "label": "Monte Carlo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\blkbustr.zip",
+      "label": "Mr. Jong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\crazyblk.zip",
+      "label": "Mr. Jong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\multiped.zip",
+      "label": "Multipede (Centipede/Millipede multigame kit)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\nsub.zip",
+      "label": "N-sub (Upright)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ncv1.zip",
+      "label": "Namco Classic Collection Vol.1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ncv2.zip",
+      "label": "Namco Classic Collection Vol.2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\nyny.zip",
+      "label": "New York! New York!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\nightmare.zip",
+      "label": "Night Mare",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\nomnlnd.zip",
+      "label": "No Man's Land",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\noahsark.zip",
+      "label": "Noah's Ark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\numcrash.zip",
+      "label": "Number Crash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ohpaipee.zip",
+      "label": "Oh! Paipee (Japan 890227)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\orbite.zip",
+      "label": "Orbite",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\overdriv.zip",
+      "label": "Over Drive (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spaceph.zip",
+      "label": "Ozma Wars (bootleg of Ozma Wars)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ozmawars.zip",
+      "label": "Ozma Wars (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pacman.zip",
+      "label": "Pac-Man (Midway)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pachifev.zip",
+      "label": "Pachifever",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\paddlema.zip",
+      "label": "Paddle Mania",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pntnpuzl.zip",
+      "label": "Paint & Puzzle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\panicr.zip",
+      "label": "Panic Road (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\panther.zip",
+      "label": "Panther",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\paradise.zip",
+      "label": "Paradise (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\para2dx.zip",
+      "label": "Paradise 2 Deluxe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\paradlx.zip",
+      "label": "Paradise Deluxe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\peggle.zip",
+      "label": "Peggle (Joystick, V1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pegglet.zip",
+      "label": "Peggle (Trackball, v1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\perestro.zip",
+      "label": "Perestroika Girls",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pignewt.zip",
+      "label": "Pig Newton (version C)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ppking.zip",
+      "label": "Ping-pong King",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\piratesh.zip",
+      "label": "Pirate Ship",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\lagirl.zip",
+      "label": "Play Girls",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pokrdice.zip",
+      "label": "Poker Dice",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\polaris.zip",
+      "label": "Polaris (Latest version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\p911ud.zip",
+      "label": "Police 911",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\p9112.zip",
+      "label": "Police 911 2 (VER. UAA:B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\polynetw.zip",
+      "label": "Poly-net Warriors (ver JAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\plygonet.zip",
+      "label": "Polygonet Commanders (ver UAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\portrait.zip",
+      "label": "Portraits (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pwrflip.zip",
+      "label": "Power Flipper Pinball Shooting V1.33",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tryout.zip",
+      "label": "Pro Baseball Skill Tryout (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\prosoccr.zip",
+      "label": "Pro Soccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\prosport.zip",
+      "label": "Pro Sports - Bowling, Tennis, And Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\protenn.zip",
+      "label": "Pro Tennis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\psyvaria.zip",
+      "label": "Psyvariar -medium Unit-",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\psyvarrv.zip",
+      "label": "Psyvariar -revision-",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pulsar.zip",
+      "label": "Pulsar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pushover.zip",
+      "label": "Push Over (Summit Coin)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\pzlestar.zip",
+      "label": "Puzzle Star (Sang Ho Soft) (Sang Ho Soft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\qbert.zip",
+      "label": "Q*bert (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\qbertqub.zip",
+      "label": "Q*bert's Qubes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\qix2.zip",
+      "label": "Qix (Tournament)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\quarterb.zip",
+      "label": "Quarterback (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\quasar.zip",
+      "label": "Quasar (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\qwak.zip",
+      "label": "Qwak (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\r2dtank.zip",
+      "label": "R2D Tank",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hexpoola.zip",
+      "label": "Rack + Roll (Senko)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\radarzon.zip",
+      "label": "Radar Zone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\raiden.zip",
+      "label": "Raiden (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\raiders.zip",
+      "label": "Raiders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\redalert.zip",
+      "label": "Red Alert",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\redlin2p.zip",
+      "label": "Redline Racer (2 Players)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\rocnrope.zip",
+      "label": "Roc'n Rope",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\rocknms.zip",
+      "label": "Rock'n Megasession (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\rollingc.zip",
+      "label": "Rolling Crash / Moon Base",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\rtriv.zip",
+      "label": "Romar Triv",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\rotaryf.zip",
+      "label": "Rotary Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\rcirulet.zip",
+      "label": "Ruleta Rci (6-players, Spanish)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\runaways.zip",
+      "label": "Runaway",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\safarir.zip",
+      "label": "Safari Rally (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sasuke.zip",
+      "label": "Sasuke Vs. Commander",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\satansat.zip",
+      "label": "Satan Of Saturn (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\neobattl.zip",
+      "label": "SD Gundam Neo Battling (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sexyboom.zip",
+      "label": "Sexy Boom",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sheriff.zip",
+      "label": "Sheriff",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shienryu.zip",
+      "label": "Shienryu (JUET 961226 V1.000)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shikigama.zip",
+      "label": "shikigama",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shikigam.zip",
+      "label": "Shikigami No Shiro",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shootbul.zip",
+      "label": "Shoot The Bull",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sl2007.zip",
+      "label": "Shooting Love 2007 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shuffle.zip",
+      "label": "Shuffleboard",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shuttlei.zip",
+      "label": "Shuttle Invader",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sindbadm.zip",
+      "label": "Sindbad Mystery",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\skybump.zip",
+      "label": "Sky Bumper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\skychut.zip",
+      "label": "Sky Chuter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\skylove.zip",
+      "label": "Sky Love",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\skysmash.zip",
+      "label": "Sky Smasher",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\slikshot.zip",
+      "label": "Slick Shot (v2.2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\solarwar.zip",
+      "label": "Solar War",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sspaceat.zip",
+      "label": "Space Attack (upright set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sspacaho.zip",
+      "label": "Space Attack / Head On",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sbhoei.zip",
+      "label": "Space Battle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacbeam.zip",
+      "label": "Space Beam",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sbugger.zip",
+      "label": "Space Bugger (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\schaser.zip",
+      "label": "Space Chaser (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\scyclone.zip",
+      "label": "Space Cyclone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacefev.zip",
+      "label": "Space Fever (New Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\highsplt.zip",
+      "label": "Space Fever High Splitter (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spfghmk2.zip",
+      "label": "Space Fighter Mark II (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacefb.zip",
+      "label": "Space Firebird (rev. 04-u)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\meteor.zip",
+      "label": "Space Force",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spcforce.zip",
+      "label": "Space Force (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacefrt.zip",
+      "label": "Space Fortress (CVS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spaceg.zip",
+      "label": "Space Guerrilla",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spaceint.zip",
+      "label": "Space Intruder",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacewr3.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cosmicm2.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\alieninv.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ultrainv.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacerng.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invaders.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invader4.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\alieninvp2.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\darthvdr.zip",
+      "label": "Space Invaders / Space Invaders M (bootleg of Space Invaders)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spaceatt.zip",
+      "label": "Space Invaders / Space Invaders M (bootleg of Space Invaders)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spaceat2.zip",
+      "label": "Space Invaders / Space Invaders M (bootleg of Super Invaders)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invasiona.zip",
+      "label": "Space Invaders / Space Invaders M (bootleg set 1, normal graphics)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sicv.zip",
+      "label": "Space Invaders / Space Invaders M (CV Version, larger roms)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\galmonst.zip",
+      "label": "Space Invaders / Space Invaders M (Laguna S.A. Spanish bootleg of Space Invaders)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spcewars.zip",
+      "label": "Space Invaders / Space Invaders M (Sanritsu)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\jspecter.zip",
+      "label": "Space Invaders / Space Invaders M (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\searthie.zip",
+      "label": "Space Invaders / Space Invaders M (set 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sisv.zip",
+      "label": "Space Invaders / Space Invaders M (SV Version rev 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sitv.zip",
+      "label": "Space Invaders / Space Invaders M (TV Version rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\cosmicmo.zip",
+      "label": "Space Invaders / Space Invaders M (version II)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sianniv.zip",
+      "label": "Space Invaders Anniversary",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invqix.zip",
+      "label": "Space Invaders Anniversary (Ver. 2.03)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invad2ct.zip",
+      "label": "Space Invaders II (Midway, cocktail)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invmulti.zip",
+      "label": "Space Invaders Multigame (M8.03D)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invaddlx.zip",
+      "label": "Space Invaders Part 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\invadpt2.zip",
+      "label": "Space Invaders Part 2 (Taito)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spcking2.zip",
+      "label": "Space King 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spcewarl.zip",
+      "label": "Space Laser (Leijac Corporation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacelnc.zip",
+      "label": "Space Launcher",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spaceod.zip",
+      "label": "Space Odyssey (version 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\panicger.zip",
+      "label": "Space Panic (German)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\panic.zip",
+      "label": "Space Panic (version E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sstrangr.zip",
+      "label": "Space Stranger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spacetrk.zip",
+      "label": "Space Trek (Upright)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spcwarp.zip",
+      "label": "Space Warp? (Cosmos conversion on Galaxian hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spiders.zip",
+      "label": "Spiders (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shorse.zip",
+      "label": "Star Horse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shorsep.zip",
+      "label": "Star Horse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shors2k1.zip",
+      "label": "Star Horse 2001",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\shorsepr.zip",
+      "label": "Star Horse Progress Returns",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\stinger.zip",
+      "label": "Stinger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sflush.zip",
+      "label": "Straight Flush",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\stratab.zip",
+      "label": "Strata Bowling (V3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\strtheat.zip",
+      "label": "Street Heat",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sbowling.zip",
+      "label": "Strike Bowling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\s1945.zip",
+      "label": "Strikers 1945 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sundance.zip",
+      "label": "Sundance",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\superabc.zip",
+      "label": "Super Abc (Pac-Man multigame kit, Sep. 03 1999)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sbrkout.zip",
+      "label": "Super Breakout (rev 04)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\superbug.zip",
+      "label": "Super Bug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sdtennis.zip",
+      "label": "Super Doubles Tennis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sfkick.zip",
+      "label": "Super Free Kick (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\beastf.zip",
+      "label": "Super Glob",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\spbactn.zip",
+      "label": "Super Pinball Action (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sqix.zip",
+      "label": "Super Qix (World/Japan, V1.2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sspeedr.zip",
+      "label": "Super Speed Race",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ssrj.zip",
+      "label": "Super Speed Race Junior (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\supertnk.zip",
+      "label": "Super Tank",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\striv.zip",
+      "label": "Super Triv (English questions)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\superwng.zip",
+      "label": "Super Wing",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\szaxxon.zip",
+      "label": "Super Zaxxon (315-5013)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\superbik.zip",
+      "label": "Superbike",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\suprstar.zip",
+      "label": "suprstar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\survival.zip",
+      "label": "Survival",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\ssingles.zip",
+      "label": "Swinging Singles (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\talbot.zip",
+      "label": "Talbot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tankbatt.zip",
+      "label": "Tank Battalion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\taxidriv.zip",
+      "label": "Taxi Driver",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\teedoff.zip",
+      "label": "Tee'd Off (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\telpacfl.zip",
+      "label": "TelePachi Fever Lion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\telmahjn.zip",
+      "label": "Telephone Mahjong (Japan 890111)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tenspot.zip",
+      "label": "Ten Spot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tenkomor.zip",
+      "label": "Tenkomori Shooting (World, TKM2/VER.A1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\terracre.zip",
+      "label": "Terra Cresta (YM3526 set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\atetrisc.zip",
+      "label": "Tetris (cocktail set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\battroad.zip",
+      "label": "The Battle-Road",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\berenstn.zip",
+      "label": "The Berenstain Bears in Big Paw's Cave",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\gametngk.zip",
+      "label": "The Game Paradise - Master of Shooting!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\thehand.zip",
+      "label": "The Hand",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tinv2650.zip",
+      "label": "The Invaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\setaroul.zip",
+      "label": "The Roulette (Visco)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tattack.zip",
+      "label": "Time Attacker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\timefgtr.zip",
+      "label": "Time Fighter (Time Pilot conversion on Galaxian hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mag_time.zip",
+      "label": "Time Scanner",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tomahawk.zip",
+      "label": "Tomahawk 777 (rev 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\toprollr.zip",
+      "label": "Top Roller",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\toratora.zip",
+      "label": "Tora Tora (prototype?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\torus.zip",
+      "label": "Torus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tdfever.zip",
+      "label": "Touchdown Fever (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\toucheme.zip",
+      "label": "Touche Me (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tranqgun.zip",
+      "label": "Tranquilizer Gun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tisland.zip",
+      "label": "Treasure Island",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\trisport.zip",
+      "label": "Tri-sports",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\trvchlng.zip",
+      "label": "Trivia Challenge",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\trvgns.zip",
+      "label": "Trivia Master",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\trvquest.zip",
+      "label": "Trivia Quest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tugboat.zip",
+      "label": "Tugboat",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tunhunt.zip",
+      "label": "Tunnel Hunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\turbo.zip",
+      "label": "Turbo (program 1513-1515)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\turbotag.zip",
+      "label": "Turbo Tag (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tvgm8080.zip",
+      "label": "tvgm8080",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\tcobra2.zip",
+      "label": "Twin Cobra II (Ver 2.1O 1995/11/30)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\unkhorse.zip",
+      "label": "Unknown Japanese Horse Gambling Game",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\sidampkr.zip",
+      "label": "Unknown Sidam Poker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\unkzilec.zip",
+      "label": "unkzilec",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\vanguard.zip",
+      "label": "Vanguard (SNK)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\vega.zip",
+      "label": "Vega",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\vroulet.zip",
+      "label": "Vegas Roulette",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\victroad.zip",
+      "label": "Victory Road",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\videight.zip",
+      "label": "Video Eight",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\8ball.zip",
+      "label": "Video Eight Ball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\videopin.zip",
+      "label": "Video Pinball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\vortex.zip",
+      "label": "Vortex",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\hotsmash.zip",
+      "label": "Vs. Hot Smash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\waidrive.zip",
+      "label": "WaiWai Drive",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\wallst.zip",
+      "label": "Wall Street",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\wantsega.zip",
+      "label": "Wanted",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\mag_war.zip",
+      "label": "War Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\warpwarpr.zip",
+      "label": "Warp & Warp",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\warp1.zip",
+      "label": "Warp-1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\wtennis.zip",
+      "label": "World Tennis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\x2222.zip",
+      "label": "X2222 (final debug?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\xevious.zip",
+      "label": "Xevious (Namco)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\xiistag.zip",
+      "label": "Xii Stag",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\yosakdon.zip",
+      "label": "Yosaku To Donbei (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\zaryavos.zip",
+      "label": "Zarya Vostoka",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\zaxxon.zip",
+      "label": "Zaxxon (set 1, rev D)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\zerohour.zip",
+      "label": "Zero Hour (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\zingzip.zip",
+      "label": "Zing Zing Zip",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\astrowar.zip",
+      "label": "ZZZ(notgame):Astro Wars",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\ROMs\\mame\\atamanot.zip",
+      "label": "ZZZ(notgame):Computer Quiz Atama No Taisou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}
