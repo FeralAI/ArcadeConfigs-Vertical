@@ -25,6 +25,7 @@ async Task Main()
 		463070,  // Mecha_Ritz_Steel_Rondo
 		377860,  // Mushihimesama
 		442120,  // Pinball_FX3
+		315670,  // Raiden_III_Digital_Edition
 		323460,  // Raiden_IV_OverKill
 		1133300, // Sisters_Royale_Five_Sisters_Under_Fire
 		1085630, // VASARA_Collection
