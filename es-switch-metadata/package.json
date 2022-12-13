@@ -1,0 +1,11 @@
+{
+  "name": "es-switch-metadata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "nintendo-switch-eshop": "^7.1.2",
+    "xml2js": "^0.4.23"
+  }
+}
