@@ -1,21 +1,45 @@
 import * as fs from 'fs';
 import { mergeGamelists, createGamelist, readGamelist, saveGamelist } from './gamelist.js';
-import { queryByFileUS } from './search.js';
+import { queryByFileBR, queryByFileEU, queryByFileJP, queryByFileUS, SearchSummary } from './search.js';
 
 const dir = 'C:/ROMs/switch/';
 const ext = '.xci';
 
 const files = await fs.promises.readdir(dir);
-const results = await Promise.all(files
-    .filter(filename => filename.endsWith(ext))
-    .map(queryByFileUS));
+const results = await Promise.all(
+    files
+        .filter(filename => filename.endsWith(ext))
+        .map(queryByFileUS)
+);
+let unmatched: SearchSummary[] = results.filter(r => !r.bestMatch.title);
+let matched: SearchSummary[] = results.filter(r => !!r.bestMatch.title);
 
-const matched = results.filter(r => r.bestMatch);
-const unmatched = results.filter(r => !r.bestMatch);
+console.log(`matched: ${matched.length}, unmatched: ${unmatched.length}`);
 
 const oldList = await readGamelist(dir + 'gamelist.xml');
 const newList = createGamelist(matched);
-const mergedList = mergeGamelists(oldList, newList);
-await saveGamelist(dir + 'gamelist.xml', mergedList);
+let mergedList = mergeGamelists(oldList, newList);
 
-// console.log(unmatched);
+const updateList = async (q: (value: string, index: number, array: string[]) => Promise<SearchSummary>) => {
+    const queryResults = await Promise.all(
+        unmatched
+            .map(u => u.filename)
+            .map(q)
+    );
+
+    matched = queryResults.filter(r => !!r.bestMatch.title);
+    unmatched = queryResults.filter(r => !r.bestMatch.title);
+    console.log(`matched: ${matched.length}, unmatched: ${unmatched.length}`);
+
+    const list = createGamelist(matched);
+    const found = list.gameList.game.length > 0;
+    if (found)
+        mergedList = mergeGamelists(mergedList, list);
+
+    return mergedList;
+}
+
+mergedList = await updateList(queryByFileJP);
+mergedList = await updateList(queryByFileEU);
+
+await saveGamelist(dir + 'gamelist.xml', mergedList);

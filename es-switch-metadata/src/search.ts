@@ -28,6 +28,11 @@ Important properties:
 * releaseDateDisplay (2017-11-22T08:00:00.000Z)
 */
 
+let dbBR: SearchGameBR[];
+let dbEU: SearchGameEU[];
+let dbJP: SearchGameJP[];
+let dbUS: SearchGameUS[];
+
 const matchQualityLimit = 0.75;
 const excludedChars = ['\'', '-', '!', '?'];
 const replaceWithSpaceChars = ['.'];
@@ -147,15 +152,17 @@ export async function queryByFileUS(filename: string): Promise<SearchSummary> {
 export async function queryByFileBR(filename: string): Promise<SearchSummary> {
     const title = filename.substring(0, filename.indexOf('[') - 1).trim().replace('  ', ' ');
 
-    const rawDb = await getGamesBrazil();
-    const db = rawDb.map((game: GameUS): SearchGameBR => ({
-        ...game,
-        titleLower: game.title.trim().replace('  ', ' ').toLowerCase(),
-        matchQuality: undefined,
-    }));
+    if (!dbBR) {
+        const db = await getGamesBrazil();
+        dbBR = db.map((game: GameUS): SearchGameBR => ({
+            ...game,
+            titleLower: game.title.trim().replace('  ', ' ').toLowerCase(),
+            matchQuality: undefined,
+        }));
+    }
 
     const searchTitle = cleanTitle(title);
-    const matches = <SearchGameBR[]>searchByTitle(db, searchTitle);
+    const matches = <SearchGameBR[]>searchByTitle(dbBR, searchTitle);
     const exactMatches = matches.filter(m => cleanTitle(m.title) === searchTitle);
     const bestGame = exactMatches.length === 1
         ? exactMatches[0]
@@ -191,15 +198,17 @@ export async function queryByFileBR(filename: string): Promise<SearchSummary> {
 export async function queryByFileEU(filename: string): Promise<SearchSummary> {
     const title = filename.substring(0, filename.indexOf('[') - 1).trim().replace('  ', ' ');
 
-    const rawDb = await getGamesEurope();
-    const db = rawDb.map((game: GameEU): SearchGameEU => ({
-        ...game,
-        titleLower: game.title.trim().replace('  ', ' ').toLowerCase(),
-        matchQuality: undefined,
-    }));
+    if (!dbEU) {
+        const db = await getGamesEurope();
+        dbEU = db.map((game: GameEU): SearchGameEU => ({
+            ...game,
+            titleLower: game.title.trim().replace('  ', ' ').toLowerCase(),
+            matchQuality: undefined,
+        }));
+    }
 
     const searchTitle = cleanTitle(title);
-    const matches = <SearchGameEU[]>searchByTitle(db, searchTitle);
+    const matches = <SearchGameEU[]>searchByTitle(dbEU, searchTitle);
     const exactMatches = matches.filter(m => cleanTitle(m.title) === searchTitle);
     const bestGame = exactMatches.length === 1
         ? exactMatches[0]
@@ -235,15 +244,17 @@ export async function queryByFileEU(filename: string): Promise<SearchSummary> {
 export async function queryByFileJP(filename: string): Promise<SearchSummary> {
     const title = filename.substring(0, filename.indexOf('[') - 1).trim().replace('  ', ' ');
 
-    const rawDb = await getGamesJapan();
-    const db = rawDb.map((game: GameJP): SearchGameJP => ({
-        ...game,
-        titleLower: game.TitleName.toString().trim().replace('  ', ' ').toLowerCase(),
-        matchQuality: undefined,
-    }));
+    if (!dbJP) {
+        const db = await getGamesJapan();
+        dbJP = db.map((game: GameJP): SearchGameJP => ({
+            ...game,
+            titleLower: game.TitleName.toString().trim().replace('  ', ' ').toLowerCase(),
+            matchQuality: undefined,
+        }));
+    }
 
     const searchTitle = cleanTitle(title);
-    const matches = <SearchGameJP[]>searchByTitle(db, searchTitle);
+    const matches = <SearchGameJP[]>searchByTitle(dbJP, searchTitle);
     const exactMatches = matches.filter(m => cleanTitle((m.TitleName || '').toString()) === searchTitle);
     const bestGame = exactMatches.length === 1
         ? exactMatches[0]
