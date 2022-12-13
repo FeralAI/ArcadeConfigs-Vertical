@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import { getGamesAmerica, getGamesEurope, getGamesJapan, getQueriedGamesAmerica } from 'nintendo-switch-eshop';
 import { filter, intersection, orderBy } from 'lodash-es';
+import { SearchGameUS } from './search.js';
 
 const dir = 'C:/ROMs/switch';
 const ext = '.xci';
@@ -33,8 +34,8 @@ const excludedWords = [
 ];
 
 // Cache the games database
-let db = await getGamesAmerica();
-db = db.map(game => ({
+const rawDb = await getGamesAmerica();
+const db = rawDb.map((game): SearchGameUS => ({
     ...game,
     titleLower: game.title.trim().replace('  ', ' ').toLowerCase(),
     titleWords: game.title.trim().replace('  ', ' ').toLowerCase().split(' '),
@@ -44,7 +45,7 @@ db = db.map(game => ({
 
 // Get list of games
 const files = await fs.promises.readdir(dir);
-let results = files
+const results = files
     .filter(filename => filename.endsWith(ext))
     .map(filename => {
         const title = filename.substring(0, filename.indexOf('[') - 1).trim().replace('  ', ' ');
