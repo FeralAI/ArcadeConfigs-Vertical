@@ -1,11 +1,12 @@
 {
   "name": "es-switch-metadata",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "build": "npx tsc",
-    "start": ".\\node_modules\\.bin\\ts-node-esm src\\main.ts"
+    "start": ".\\node_modules\\.bin\\ts-node-esm src\\main.ts",
+    "query": ".\\node_modules\\.bin\\ts-node-esm src\\query.ts"
   },
   "dependencies": {
     "lodash-es": "^4.17.21",
