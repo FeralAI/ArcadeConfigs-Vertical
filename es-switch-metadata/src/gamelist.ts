@@ -106,11 +106,11 @@ export async function readGamelist(path: string): Promise<Gamelist> {
     const gamelistBuffer = await fs.promises.readFile(path);
     const gamelist = await parser.parseStringPromise(gamelistBuffer);
     gamelist.gameList.game.forEach((g: GamelistGame) => {
-        if (g.name && !g.name[0] || g.name[0] === '\r\n    ') g.name = [ '' ];
-        if (g.desc && !g.desc[0] || g.desc[0] === '\r\n    ') g.desc = [ '' ];
-        if (g.developer && !g.developer[0] || g.developer[0] === '\r\n    ') g.developer = [ '' ];
-        if (g.publisher && !g.publisher[0] || g.publisher[0] === '\r\n    ') g.publisher = [ '' ];
-        if (g.releasedate && !g.releasedate[0] || g.releasedate[0] === '\r\n    ') g.releasedate = [ '' ];
+        if (g.name && (g.name.length === 0 || g.name[0] === '\r\n    ')) g.name = [ '' ];
+        if (g.desc && (g.desc.length === 0 || g.desc[0] === '\r\n    ')) g.desc = [ '' ];
+        if (g.developer && (g.developer.length === 0 || g.developer[0] === '\r\n    ')) g.developer = [ '' ];
+        if (g.publisher && (g.publisher.length === 0 || g.publisher[0] === '\r\n    ')) g.publisher = [ '' ];
+        if (g.releasedate && (g.releasedate.length === 0 || g.releasedate[0] === '\r\n    ')) g.releasedate = [ '' ];
     });
 
     return gamelist;
