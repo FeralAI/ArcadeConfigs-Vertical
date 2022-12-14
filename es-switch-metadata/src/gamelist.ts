@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import * as xml2js from 'xml2js';
 import { find } from "lodash-es";
 import { SearchSummary } from "./search.js";
+import { on } from 'process';
 
 export interface GamelistProvider {
     System: string;
@@ -46,16 +47,20 @@ export function mergeGamelists(oldList: Gamelist, newList: Gamelist): Gamelist {
         },
     };
 
-    oldList.gameList.game.forEach(g => {
-        const newListGame = find(newList.gameList.game, { path: g.path });
-        let mergedGame: GamelistGame = { ...g };
-        if (newListGame) {
-            mergedGame = {
-                ...g,
-                ...newListGame,
-                developer: g.developer || newListGame.developer, // Old list dev is from ROM, prioritize it
-            };
-            mergedList.gameList.game.push();
+    oldList.gameList.game.forEach(oldGame => {
+        const newGame = find(newList.gameList.game, { path: oldGame.path });
+        let mergedGame: GamelistGame = { ...oldGame };
+        if (newGame) {
+            mergedGame.name = (newGame.name[0] !== '') ? newGame.name : mergedGame.name;
+            mergedGame.desc = (newGame.desc[0] !== '') ? newGame.desc : mergedGame.desc;
+            mergedGame.developer = (newGame.developer[0] !== '') ? newGame.developer : oldGame.developer;
+            mergedGame.publisher = (newGame.publisher[0] !== '') ? newGame.publisher : mergedGame.publisher;
+            mergedGame.image = (newGame.image[0] !== '') ? newGame.image : mergedGame.image;
+            mergedGame.players = (newGame.players[0] !== '') ? newGame.players : mergedGame.players;
+            mergedGame.releasedate = (newGame.releasedate[0] !== '') ? newGame.releasedate : mergedGame.releasedate;
+            mergedGame.lang = (newGame.lang[0] !== '') ? newGame.lang : mergedGame.lang;
+            mergedGame.region = (newGame.region[0] !== '') ? newGame.region : mergedGame.region;
+            mergedGame.genre = (newGame.genre[0] !== '') ? newGame.genre : mergedGame.genre;
         }
 
         mergedList.gameList.game.push(mergedGame);
