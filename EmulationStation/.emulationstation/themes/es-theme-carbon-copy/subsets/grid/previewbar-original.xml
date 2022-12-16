@@ -13,9 +13,9 @@
       <path>./../../art/filter.png</path>
       <color>000000A0</color>
       <origin>0 0</origin>
-      <pos>0 0.75</pos>
-      <size>1 0.25</size>
-      <size ifSubset="gameBar:yes">1 0.25</size>
+      <pos>0.663 0.16</pos>
+      <size>0.337 0.774</size>
+      <size ifSubset="gameBar:yes">0.29 0.774</size>
       <zIndex>12</zIndex>
     </image>
     
@@ -23,10 +23,8 @@
 			<path>./../../art/white.png</path>
 			<color>${glowColor}</color>
 			<origin>0 0</origin>
-			<pos>0 0.75</pos>
-			<size>1 0.003</size>
-			<!-- <pos>0.66 0.16</pos>
-			<size>0.003 0.775</size> -->
+			<pos>0.66 0.16</pos>
+			<size>0.003 0.775</size>
 			<zIndex>14</zIndex>
 		</image>
 		
@@ -43,7 +41,7 @@
       <alignment>center</alignment>
       <glowColor>${glowColor}</glowColor>
       <glowSize>2</glowSize>
-      <glowOffset>1 1</glowOffset>
+<glowOffset>1 1</glowOffset>
       <lineSpacing>1.1</lineSpacing>
     </text>
 

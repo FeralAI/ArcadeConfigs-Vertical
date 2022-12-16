@@ -43,3 +43,5 @@ mergedList = await updateList(queryByFileJP);
 mergedList = await updateList(queryByFileEU);
 
 await saveGamelist(dir + 'gamelist.xml', mergedList);
+
+console.log(unmatched);

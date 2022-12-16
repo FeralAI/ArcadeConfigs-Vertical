@@ -19,7 +19,8 @@ static string RomPath = @"C:\ROMs\switch\";
 static string ImagePath = @"./media/images/";
 static string ProdKeysPath = Environment.ExpandEnvironmentVariables(@"%USERPROFILE%\.switch\prod.keys");
 static string TitleKeysPath = Environment.ExpandEnvironmentVariables(@"%USERPROFILE%\.switch\title.keys");
-static Keyset Keys = ExternalKeys.ReadKeyFile(ProdKeysPath, TitleKeysPath);
+static string ConsoleKeysPath = Environment.ExpandEnvironmentVariables(@"%USERPROFILE%\.switch\console.keys");
+static Keyset Keys = ExternalKeys.ReadKeyFile(ProdKeysPath, TitleKeysPath, ConsoleKeysPath);
 static string GameListPath = @"C:\ROMs\switch\gamelist.xml";
 const string GameListTemplate = @"<?xml version=""1.0""?>
 <gameList>
@@ -37,10 +38,11 @@ void Main()
 
 	var files = Directory.GetFiles(RomPath, "*.xci").ToList();
 	var metadatas = files.Select(ExtractMetadataXci);
+	metadatas.Dump();
 	
 	foreach (var metadata in metadatas)
 	{
-		using (var fs = File.Open(metadata.IconPath, FileMode.Create))
+		using (var fs = File.Open(metadata.IconSavePath, FileMode.Create))
 			metadata.IconImage.Save(fs, ImageFormat.Jpeg);
 			
 		AddToGamelist(metadata);
@@ -52,16 +54,27 @@ public class SwitchMetadata
 	public string Path { get; set; }
 	public string Title { get; set; }
 	public string Developer { get; set; }
+	public string CleanFileTitle
+	{
+		get
+		{
+			var fileInfo = new FileInfo(Path);
+			var cleanTitle = fileInfo.Name.Substring(0, fileInfo.Name.IndexOf("[")).Trim();
+			RemoveChars.ForEach(c => cleanTitle = cleanTitle.Replace(c, ""));
+			return cleanTitle.Replace("1945Ⅱ", "1945 Ⅱ");
+		}
+	}
 	public string CleanTitle
 	{
 		get
 		{
 			var cleanTitle = Title;
 			RemoveChars.ForEach(c => cleanTitle = cleanTitle.Replace(c, ""));
-			return cleanTitle;
+			return cleanTitle.Replace("1945Ⅱ", "1945 Ⅱ");
 		}
 	}
-	public string IconPath => System.IO.Path.Combine(ImagePath, $"{CleanTitle}.jpg");
+	public string IconPath => System.IO.Path.Combine(ImagePath, $"{CleanFileTitle}.jpg");
+	public string IconSavePath => System.IO.Path.Combine(RomPath, $"media\\images\\{CleanFileTitle}.jpg");
 	public Image IconImage;
 }
 
