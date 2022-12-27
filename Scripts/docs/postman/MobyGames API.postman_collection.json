@@ -1,0 +1,467 @@
+{
+	"info": {
+		"_postman_id": "34968a25-9a14-41c3-8a1e-be46cb7bfbb9",
+		"name": "MobyGames API",
+		"description": "https://www.mobygames.com/info/api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Genres",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/genres",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"genres"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Groups",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/groups?limit=100&offset=0",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"groups"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "100",
+							"description": "The maximum number of groups to return (default 100, max 100)"
+						},
+						{
+							"key": "offset",
+							"value": "0",
+							"description": "The offset from which to begin returning groups (default 0)"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Platforms",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/platforms",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"platforms"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Games",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games?format=normal",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games"
+					],
+					"query": [
+						{
+							"key": "format",
+							"value": "normal",
+							"description": "The output format: id, brief, normal, or full"
+						},
+						{
+							"key": "limit",
+							"value": "100",
+							"description": "The maximum number of games to return (default 100, max 100)",
+							"disabled": true
+						},
+						{
+							"key": "offset",
+							"value": "0",
+							"description": "The offset from which to begin returning games (default 0)",
+							"disabled": true
+						},
+						{
+							"key": "platform",
+							"value": null,
+							"description": "The ID of a platform on which the game was released",
+							"disabled": true
+						},
+						{
+							"key": "genre",
+							"value": null,
+							"description": "The ID of a genre assigned to the game",
+							"disabled": true
+						},
+						{
+							"key": "group",
+							"value": null,
+							"description": "The ID of a group assigned to the game",
+							"disabled": true
+						},
+						{
+							"key": "title",
+							"value": null,
+							"description": "A substring of the title (not case sensitive)",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game By Id (Query)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games?format=normal&id={{testGameId}}",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games"
+					],
+					"query": [
+						{
+							"key": "format",
+							"value": "normal",
+							"description": "The output format: id, brief, normal, or full"
+						},
+						{
+							"key": "id",
+							"value": "{{testGameId}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game By Id (Path)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games/:gameId?format=normal",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						":gameId"
+					],
+					"query": [
+						{
+							"key": "format",
+							"value": "normal",
+							"description": "The output format: brief, normal, or full"
+						}
+					],
+					"variable": [
+						{
+							"key": "gameId",
+							"value": "{{testGameId}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game Platforms By Id (Path)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"if (pm.response.code == 200) {\r",
+							"    var data = pm.response.json();\r",
+							"    if (data.platforms.length > 0) {\r",
+							"        pm.collectionVariables.set(\"testPlatformId\", data.platforms[0].platform_id);\r",
+							"    }\r",
+							"}"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{baseUrl}}/games/:gameId/platforms",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						":gameId",
+						"platforms"
+					],
+					"variable": [
+						{
+							"key": "gameId",
+							"value": "{{testGameId}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game Platform Details By Id (Path)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games/:gameId/platforms/:platformId",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						":gameId",
+						"platforms",
+						":platformId"
+					],
+					"variable": [
+						{
+							"key": "gameId",
+							"value": "{{testGameId}}"
+						},
+						{
+							"key": "platformId",
+							"value": "{{testPlatformId}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game Platform Screenshots By Id (Path)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games/:gameId/platforms/:platformId/screenshots",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						":gameId",
+						"platforms",
+						":platformId",
+						"screenshots"
+					],
+					"variable": [
+						{
+							"key": "gameId",
+							"value": "{{testGameId}}"
+						},
+						{
+							"key": "platformId",
+							"value": "{{testPlatformId}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game Platform Covers By Id (Path)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games/:gameId/platforms/:platformId/covers",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						":gameId",
+						"platforms",
+						":platformId",
+						"covers"
+					],
+					"variable": [
+						{
+							"key": "gameId",
+							"value": "{{testGameId}}"
+						},
+						{
+							"key": "platformId",
+							"value": "{{testPlatformId}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Games Recent",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games/recent?format=id",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						"recent"
+					],
+					"query": [
+						{
+							"key": "format",
+							"value": "id",
+							"description": "The output format: id, brief, normal, or full"
+						},
+						{
+							"key": "limit",
+							"value": "100",
+							"description": "The maximum number of games to return (default 100, max 100)",
+							"disabled": true
+						},
+						{
+							"key": "offset",
+							"value": "0",
+							"description": "The offset from which to begin returning games",
+							"disabled": true
+						},
+						{
+							"key": "age",
+							"value": "21",
+							"description": "Return only games modified in the last age days (default 21, max 21)",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Games Random",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/games/random?format=id",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"games",
+						"random"
+					],
+					"query": [
+						{
+							"key": "format",
+							"value": "id",
+							"description": "The output format: id, brief, normal, or full"
+						},
+						{
+							"key": "limit",
+							"value": "100",
+							"description": "The maximum number of games to return (default 100, max 100)",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "value",
+				"value": "{{apiKey}}",
+				"type": "string"
+			},
+			{
+				"key": "key",
+				"value": "api_key",
+				"type": "string"
+			},
+			{
+				"key": "in",
+				"value": "query",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "https://api.mobygames.com/v1",
+			"type": "default"
+		},
+		{
+			"key": "apiKey",
+			"value": "DsLqesiA7RGV3Z/y4uf3Aw==",
+			"type": "default"
+		},
+		{
+			"key": "testGameId",
+			"value": "72142",
+			"type": "default"
+		},
+		{
+			"key": "testPlatformId",
+			"value": "3",
+			"type": "default"
+		}
+	]
+}

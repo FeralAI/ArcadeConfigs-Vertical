@@ -1,0 +1,42 @@
+{
+  "name": "arcade-maintenance-utility",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx tsc",
+    "metadata-aa-switch": ".\\node_modules\\.bin\\ts-node-esm src\\metadata-aa-switch.ts",
+    "metadata-steam": ".\\node_modules\\.bin\\ts-node-esm src\\metadata-steam.ts",
+    "metadata-switch": ".\\node_modules\\.bin\\ts-node-esm src\\metadata-switch.ts",
+    "missing-metadata-report": ".\\node_modules\\.bin\\ts-node-esm src\\reports\\missing-metadata-report.ts",
+    "scratchpad": ".\\node_modules\\.bin\\ts-node-esm src\\scratchpad.ts",
+    "update-emulationstation": ".\\node_modules\\.bin\\ts-node-esm src\\updates\\update-emulationstation.ts"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^1.2.1",
+    "cheerio": "^1.0.0-rc.12",
+    "edge-js": "^19.3.0",
+    "glob": "^8.0.3",
+    "glob-promise": "^6.0.0",
+    "json2csv": "^5.0.7",
+    "lodash-es": "^4.17.21",
+    "nintendo-switch-eshop": "^7.1.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "@types/adm-zip": "^0.5.0",
+    "@types/cheerio": "^0.22.31",
+    "@types/glob": "^8.0.0",
+    "@types/json2csv": "^5.0.3",
+    "@types/lodash-es": "^4.17.6",
+    "@types/node": "^18.11.14",
+    "@types/xml2js": "^0.4.11",
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.29.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
